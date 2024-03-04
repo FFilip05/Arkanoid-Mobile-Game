@@ -7,7 +7,7 @@ import { checkGameOver } from "../utils/checkGameOver";
 import { checkCollision } from '../utils/checkCollision';
 import Ball from './Ball';
 import Paddle from './Paddle';
-import Header from "./Header";
+// import Header from "./Header";
 import Blocks from './Blocks';
 
 const PADDLE_INITIAL_POSITION = { x: 0, y: 700 };
